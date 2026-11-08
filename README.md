@@ -37,9 +37,9 @@
 
 **第三方组件**：本项目在运行时依赖或集成以下组件，它们各自遵循其原始许可证：
 
-- Wine：LGPL-2.1-or-later
+- Wine：LGPL-2.1-or-later（以 Wine 官方 COPYING.LIB 为准）
 - Box64：MIT
-- Winlator：待核实
+- Winlator：LGPL-2.1
 - 其他依赖：待补充，详见 `THIRD_PARTY.md`（计划中）
 
 **游戏本体及资源**：东方系列游戏的版权归 ZUN 及上海爱丽丝幻乐团所有。本许可证只适用于本项目自身的代码，不授予任何人对游戏本体或其资源的权利，也不随本项目分发。
