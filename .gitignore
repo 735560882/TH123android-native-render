@@ -1,0 +1,53 @@
+# 游戏本体与资源：绝不提交
+*.exe
+*.dll
+*.pak
+*.dat
+*.bin
+th123*
+game/
+assets/original/
+
+# 构建产物
+build/
+out/
+bin/
+obj/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# NDK / CMake
+.cxx/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+local.properties
+
+# Android Studio / Gradle
+.gradle/
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+
+# 录像与临时数据
+*.thrr
+*.log
+*.tmp
+*.bak
+*.swp
+
+# 凭据与本地配置
+.env
+*.keystore
+*.jks
+*.pem
+*.key
