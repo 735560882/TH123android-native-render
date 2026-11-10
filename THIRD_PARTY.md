@@ -9,7 +9,7 @@
 | Wine | wine-11.21 | Windows 兼容层，运行原版游戏逻辑 | LGPL-2.1-or-later（待对照其 COPYING.LIB 原文确认） | https://gitlab.winehq.org/wine/wine |
 | Box64 | v0.4.5-1 | x86_64 到 ARM64 的指令翻译 | MIT（LICENSE 原文已核对，版权 2020 ptitSeb） | https://github.com/ptitSeb/box64 |
 | Winlator | v11.2.0 | 运行环境的参考与基础 | LGPL-2.1（LICENSE 原文已核对） | https://github.com/brunodev85/winlator |
-| 其他内置组件（如 DXVK、VirGL 等） | 待填写 | 图形转换或加速 | 待填写 | 待填写 |
+| Winlator 内置组件（DXVK、VKD3D、wined3d、Turnip 等） | 待填写 | 图形转换或加速 | 待核对，见各上游仓库 | [Winlator 组件目录](https://github.com/brunodev85/winlator/tree/main/installable_components)，上游：[DXVK](https://github.com/doitsujin/dxvk)、[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton)、[Wine](https://gitlab.winehq.org/wine/wine)（wined3d）、[Mesa](https://gitlab.freedesktop.org/mesa/mesa)（Turnip） |
 
 ## 许可证原文
 
